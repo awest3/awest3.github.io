@@ -1,0 +1,7 @@
+---
+title: "ANU RSSS (with RSFAS) Cross College Grant to Study Networks within the Australian Political Landscape"
+date: "05-03-2018"
+categories: [news, grant]
+---
+
+In colloboration with Drs. Grace Chiu (RSFAS) and Shawn Trieier (RSSS), we received funding from the Research School of School Sciences in conjunction with the Research School of Finance, Actuarial Studies and Statistics  (<<http://rsss.cass.anu.edu.au/research/cross-college-grant>>) for evidence-based statistical inference of network relations based on case studies from the Australian political landscape.

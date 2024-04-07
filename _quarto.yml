@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "AHW3"
+  navbar:
+    left:
+      - index.qmd
+      - news.qmd
+      
+format:
+  html:
+    theme: spacelab
+    css: styles.css
+
+editor: visual
+

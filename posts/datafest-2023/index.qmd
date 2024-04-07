@@ -1,0 +1,7 @@
+---
+title: "ASA DataFest 2023 @ The Australian National University"
+date: "04-01-2023"
+categories: [news]
+---
+
+ANU through the Research School of Finance, Actuarial Studies and Statistics (virtually) ran DataFest 2022 competition from March 31 - April 2. See the [ANU-RSFAS DataFest](https://rsfas.anu.edu.au/study/american-statistical-association-datafest-anu) site for information.

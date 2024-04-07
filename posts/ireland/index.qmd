@@ -1,0 +1,9 @@
+---
+title: "Anton Westveld - Inaugural International Partner of Ireland's Foundations of Data Science for Industry and Enterprise"
+date: "03-12-2019"
+categories: [news, grant]
+---
+
+The application “Centre for Research Training (CRT): Foundations of Data Science for Industry and Enterprise – FUSE”  led by Professor James Gleeson – University of Limerick, Professor Claire Gormley – University College Dublin and Professor Ken Duffy – Maynooth University was successful.
+
+Dr. Anton Westveld and Associate Professor Grace Chiu are very excited to be inaugural international partners in the Centre, which seeks to provide cutting edge training in Data Science ([http://www.data-science.ie](http://www.data-science.ie/)).
