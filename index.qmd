@@ -1,6 +1,5 @@
 ---
 title: "About"
-subtitle: "Anton H. Westveld"
 about:
   template: jolla
   links:
@@ -13,6 +12,10 @@ about:
 ---
 
 ![](ANU_Primary.jpg){width="300"}
+
+------------------------------------------------------------------------
+
+# Anton H. Westveld
 
 ------------------------------------------------------------------------
 
