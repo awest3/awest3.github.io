@@ -12,9 +12,9 @@ about:
       href: https://scholar.google.com/citations?user=6-UcovcAAAAJ&hl=en
 ---
 
-![](ANU_Primary.jpg){width=300}
+![](ANU_Primary.jpg){width="300"}
 
-___
+------------------------------------------------------------------------
 
 I am a senior lecturer (Australian system) in the [Research School of Finance, Actuarial Studies & Statistics](https://www.rsfas.anu.edu.au/) at the [Australian National University](http://www.anu.edu.au/) and an affiliate associate professor in the [Department of Statistical Sciences and Operations Research](https://ssor.vcu.edu/) at [Virginia Commonwealth University](https://www.vcu.edu/).
 
