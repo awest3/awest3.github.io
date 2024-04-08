@@ -1,7 +1,0 @@
----
-title: "ASA DataFest 2022 @ The Australian National University"
-date: "04-03-2022"
-categories: [news]
----
-
-ANU through the Research School of Finance, Actuarial Studies and Statistics (virtually) ran DataFest 2022 competition from April 1- April 3. During the 48-hour friendly competition, five teams consisting of a total of 15 participants wrangled with and analysed a complex data set. See the [ANU-RSFAS DataFest](https://rsfas.anu.edu.au/study/american-statistical-association-datafest-anu) site for information.

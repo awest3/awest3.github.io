@@ -1,7 +1,0 @@
----
-title: "Swen Kuh Received the IBISWorld Ph.D. Scholarship"
-date: "09-08-2016"
-categories: [news, phd student]
----
-
-At the ANU CBE Annual Prizes and Scholarships Ceremony 2016, Ms. Swen Kuh received her scholarship award from IBISWorld. This scholarship is funded from the grant received by Dr. Grace Chiu and Dr. Anton Westveld donated by IBISWorld founder Mr. Phil Ruthann. Under the supervision of Drs. Chiu and Westveld, Ms. Kuh will statistically consider indicators of socio-economic health and causal modelling. See the [ANU write-up](http://www.anu.edu.au/giving/impact-giving/nurturing-new-ideas).
